@@ -1,0 +1,8 @@
+Hash fonksiyonları, herhangi bir boyuttaki veriyi sabit uzunlukta bir çıktı haline getiren algoritmalardır. Blockchain’de en çok kullanılan hash algoritmalarından biri SHA-256’dır.
+
+Bu algoritmaların özellikleri:
+- Tek yönlüdür (geri dönüşü zordur),
+- Aynı girdiye her zaman aynı çıktıyı verir,
+- Küçük bir değişiklik tüm çıktıyı değiştirir.
+
+Hash'ler sayesinde bloklar güvenli şekilde zincirlenir.
